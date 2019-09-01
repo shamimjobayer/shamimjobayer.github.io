@@ -71,11 +71,11 @@ table, th, td {
 
 ul {
     list-style-type: square;
-    color: #FF5722;
+    color: green;
 }
 ol {
     font-style: italic;
-    color: #FF9800;
+    color: green;
 }
 
 .img {
