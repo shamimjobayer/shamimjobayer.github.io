@@ -99,7 +99,7 @@ ol {
     margin: 0 15px;
 }
 
-.header h1 {
+.header h1, h2 {
     color: #fff;
     margin-bottom: 20px;
     font-family: 'Satisfy', cursive;
@@ -108,7 +108,7 @@ ol {
 .footer {
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-top: 100px;
+    margin-top: 60px;
     text-align: center;
     background:green;
     color:LightGreen;
