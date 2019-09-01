@@ -87,8 +87,8 @@ ol {
 .header {
     padding: 30px 0;
     text-align: center;
-    background:#669900;
-    color:#D3E992;
+    background:green;
+    color:white;
 }
 
 .header p {
@@ -107,25 +107,6 @@ ol {
     padding-bottom: 50px;
     margin-top: 100px;
     text-align: center;
-    background:#669900;
-    color:#D3E992;
+    background:green;
+    color:light-green;
 }
-
-.white {color:#fff !important;}
-.blue {color:#2196F3 !important;}
-.brown {color:#795548 !important;}
-.red {color:#F44336 !important;}
-.green {color:#4CAF50 !important;}
-.pink {color: #E91E63 !important;}
-.blue-gray {color: #607D8B !important;}
-.orange {color: #FF5722 !important;}
-.light-blue {color:#87CEEB !important;}
-.purple {color:#9C27B0 !important;}
-.deep-purple {color:#673AB7 !important;}
-
-.bg-blue {background:#0099CC !important;color:#A8DFF4 !important;}
-.bg-green {background:#669900 !important;color:#D3E992 !important;}
-.bg-red {background:#CC0000 !important;color:#FFAFAF !important;}
-.bg-yellow {background:#FF8A00 !important;color:#FFECC0 !important;}
-.bg-pink {background:#E91E63 !important;color:#FFAFAF !important;}
-
