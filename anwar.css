@@ -86,6 +86,8 @@ ol {
 
 .header {
     padding: 30px 0;
+    margin-bottom: 40px;
+    font-size: 20px;
     text-align: center;
     background:green;
     color:lightgreen;
@@ -100,6 +102,7 @@ ol {
 .header h1 {
     color: #fff;
     margin-bottom: 20px;
+    font-family: 'Satisfy', cursive;
 }
 
 .footer {
