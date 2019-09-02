@@ -75,6 +75,8 @@ input {
     background:#fff;
 }
 
+img {width:100%;}
+
 .img {
     border:1px solid #CCC;
     padding:4px;
