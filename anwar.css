@@ -78,6 +78,12 @@ ol {
     color: green;
 }
 
+input {
+    width:100%;
+    padding:10px;
+    background:#fff;
+}
+
 .img {
     border:1px solid #CCC;
     padding:4px;
