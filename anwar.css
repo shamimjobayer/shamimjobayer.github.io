@@ -56,8 +56,8 @@ tr {
     border: 1px solid #ddd;
 }
 th {
-    background-color: #4CAF50;
-    color:#fff;
+    background-color: green;
+    color:white;
 }
 tr:nth-child(even) {
     background-color: #f7f7f9;
