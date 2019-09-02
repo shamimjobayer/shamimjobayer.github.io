@@ -69,15 +69,6 @@ table, th, td {
     padding:8px 8px;
 }
 
-ul {
-    list-style-type: square;
-    color: green;
-}
-ol {
-    font-style: italic;
-    color: green;
-}
-
 input {
     width:100%;
     padding:10px;
